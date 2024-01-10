@@ -10,3 +10,5 @@ The outcome of this effort is a programmatic multiplayer game based on an HTTP s
 **Keywords:** Programming game, Educational game, Browser game, Competition game, Python, Godot, Learning programming, Game development, Multiprocessing, Componentisation
 
 **Field of science and technology in accordance with OECD requirements:** Computer science and information technology
+
+![img/1.png](img/1.png) ![img/2.png](img/2.png)
